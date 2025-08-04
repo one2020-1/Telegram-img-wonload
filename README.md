@@ -83,7 +83,7 @@ save_path = r'YOUR_SAVE_PATH'
 
 ```
 tg-img/
-├── Telegram-img-d.py    # 主程序文件
+├── Telegram-img-dwonload.py    # 主程序文件
 ├── README.md           # 项目说明文档
 └── img/               # 图片保存目录（自动创建）
 ```
